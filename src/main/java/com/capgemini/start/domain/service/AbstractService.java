@@ -4,7 +4,6 @@ import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.capgemini.start.domain.entity.Genero;
 import com.capgemini.start.domain.entity.Tipo;
 import com.capgemini.start.domain.service.exceptions.ObjectNotFoundException;
 
