@@ -1,6 +1,5 @@
 package com.capgemini.start.api.resource.impl;
 
-import com.capgemini.start.api.resource.GeneroResource;
+public class GeneroResourceImpl {
 
-public class GeneroResourceImpl implements GeneroResource{
 }

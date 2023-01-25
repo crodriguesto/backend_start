@@ -12,5 +12,4 @@ public class GeneroService extends AbstractService<Genero, Long> {
 		return null;
 	}
 
-		
 }
